@@ -40,6 +40,7 @@ public class EmailGeneratorService {
 
         //Do req and get res
         //Return the res
+
     }
 
     private String buildPrompt(EmailRequest emailRequest) {
